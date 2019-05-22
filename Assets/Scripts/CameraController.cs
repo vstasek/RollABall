@@ -3,6 +3,7 @@ using System.Collections;
 
 public class CameraController : MonoBehaviour {
 
+    // adding a test comment
 	// Use this to attach camera to player object
 	public GameObject player;
 
